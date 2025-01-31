@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kzoxmazpx
+- 👋 Hi, I’m @kzoxofficiel
 - 👀 I am interested in coding python and javascript code 
 - 🌱 I am currently learning python and javascript 
 
